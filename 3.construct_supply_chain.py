@@ -10,7 +10,7 @@ import setting
 pypi_db = MongoClient(host="127.0.0.1", port=27017)["dlsc"]
 distribution_metadata = pypi_db["distribution_metadata"]
 versioned_dependencies = pypi_db["versioned_dependencies"]
-supply_chains = MongoClient(host="127.0.0.1", port=27017)["SupplyChains"]
+supply_chains = MongoClient(host="127.0.0.1", port=27017)["dlsc"]
 # LOG_PATH = "log/dl_package_metadata.log"
 
 # logger = logging.getLogger()

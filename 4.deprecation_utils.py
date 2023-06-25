@@ -12,7 +12,7 @@ from setting import FRAMEWORK_PACKAGES
 
 client = MongoClient(host="127.0.0.1", port=27017)
 distribution_metadata = client["dlsc"]["distribution_metadata"]
-sc_db = client["SupplyChains"]
+sc_db = client["dlsc"]
 
 
 def package_versions(col: pymongo.collection.Collection, name: str, start_time: str):
