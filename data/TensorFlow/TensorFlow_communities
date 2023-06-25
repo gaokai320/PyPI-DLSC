@@ -1,0 +1,131 @@
+Keras, keras-model-specs, simphony, adversarial-robustness-toolbox, stellargraph, keras-metrics, deepsegment, seqtag-keras, tensorflow-serving-client, russtress, proviso, keras-tqdm, SiPANN, xDNN-classifier, text-gen, stonkgs, spacy-combo, sizif, ru-accent-poet, roby, reorientexpress, qrmine, pynorm, pyleafarea, pyhumour, pyCeterisParibus, py-agender, propythia, processdigit, poreplex, picasso-viz, panoptes-he, nwae, numeraicb, nomeroff-net-test, nomeroff-net-gpu, nomeroff-net, nlp-xiaojiang, neurol, n2d, musicalrobot, mrainet, model-converters, mly, miscnn, mcfly, lpdr, lidtk, libtlda, lemay-ai-sidecar, lecture-transcriber, lauetoolsnn, keras-trainer, keras-pyramid-pooling-module, keras-mri, keras-hist-graph, keras-eval, keras-bucket-tensorboard-callback, keras-adversarial, inductiveGRL, imagegengan, imageatm, image-keras, hforl, greenotyper, gravityspy, gordo-components, gemben, gdslib, flask-image-search, ethnicolr, emepy, dynamicgem, dltkai, dlf-nova-play-my-own-music, deepcheck, coolstuff, categorical-embedder, bella-tdsa, backtraderbd, autovul, armcor, anomaly-detection-models, anomaly-detection-framework, altena, WHU-ScoreChecker, SubBrainSegment, PLANBERT, Orange3-MNE, Orange-3-MNE-Widgets, GhalatML, GML, CAD-Recognition
+tensorflow-probability, mlagents, dopamine-rl, tensor2tensor, mesh-tensorflow, magenta, kfac, tf-siren, phasespace, mathy, magenta-gpu, deephyper, cleverhans, batchglm, ukuxhumana, twodlearn, topicpy, tfmpc, tensorwaves, tensorflow-wavelets, tensordiffeq, tensor2tensorManuel, spnflow, scrinet, scivae, scCODA, rosey-keras, rl-toolkit, recsim-ng, recsim, reaver, psiz, polymuse-future, polymuse, poisson-CNN, pl-nightly, perceptilabs-gpu, perceptilabs, numpyro-ncx2, nsc, not-tf-opt, ml-ocean-bl, mathy-alpha-sm, ismlldataset, gym-unity, genie-parser, dvm, dnnmodels, disentanglement-lib, diffxpy, description2process, deepspace, deepof, deepbayes, cadl, bpnet-lite, b4tf, augmix-tf, attention-tensorflow-mesh, antspynet, animalai-train, aidatafactory, PyTransdec, ESEm, BPrune
+tensorflow-text, tf-models-official, tensorflow-io, seqio, t5, file-io, ivystar, tfkbnufft, tensorflow-nufft, tensorflow-graphics, spacy-universal-sentence-encoder, bavard-ml-common, whatlies, uncertainty-baselines, trax, top2vec, tfdsio, tf2-tensorflow-object-detection-api, tf-fastmri-data, tensorflow-mri, tensorflow-deploy-utils, spectrogram-to-audio, sknlp, ringkasan, renn, pypdf-lib, prognosais, picsellia-tf2, obfuscated-convo-new-version-abdo, ml4ir, minapipe1, minapipe, minapip1, maupassant, malaya-gpu, kagemeka, fintix-modelcurator, fedlearner, easy-tensorflow-object-detection-api, deep-autoviml, credentialdigger, convo-tt, convo-nlu2, convo-nlu-v2, convo-nlu, convo-nl2, convo-new-version-abdo, convo-n2, convo-latest, convo-engine, convo-NLU2, conversational-sentence-encoder, bert-text-summarizer, beir, bavard-nlu, bavard, auger.ai.predict, abdoconvo, abdo-obfuscate, abdo, abdelrahman-obfuscate, TensorFlowASR, Fern2
+streamlit, iglovikov-helper-functions, hyperactive, catalyst, guang, DockerENT, zangorth-helpers, streamlit-pydantic, pandaslearn, ms2deepscore, zangorth-streamlit, zangorth-ramsey, tuneflow, tf-semantic-segmentation, sysxtract, syncnote, sugartime, streamlitlearn, streamlit-analytics, streambook, retinaface-pytorch, raylab, pymedphys, pydemic-ui, people-segmentation, opyrator, optimization-dashboard, neuronunitopt, netspeedmonitor, msexpert, ms2query, ml-idm, midv500models, meta-optimize, memery, hyperplotlib, hypermemory, helloworldrm, grants-tagger, gplot, front, fancylit, espec, ersilia, emailme, dnn-cool, dieterpy, dashes3, dashes2, dashes, cloths-segmentation, check-orientation, appzoo, allennlp-datalawyer, acv-exp, abstcal, PALS-pathway, NaMAZU
+tensorflow-addons, zfit, tensorflow-federated, calamari-ocr, keras-tcn, tfaip, adabelief-tf, tfnlu, tf-keras-vis, onnx-tf, OpenNMT-tf, zh-rasa, zfit-physics, xiRT, vit-keras, utranslate, ultrayolo, tuning, tfbert, tfaug, tf-yolov4, tf-hourglass-networks, taug, protein-bert, ocrd-cis, ocrd-calamari, nnabla-converter, nebulae, nashi-ocr, mzfit, murre, lauztat, langma, kgcnn, keras-cv-attention-models, kayra, inn, gans2, ganpy, ganondorf, fedjax, extract-sfm, dienen, deeptrack, deepflash2, deep-kolibri, convoxxx, convo7, convo6, convo5, chitra, bert-multitask-learning, atlalign, astrorapid, aicmder, FQCS, DeepNN, ADLStream
+seqeval, musket-core, paddlenlp, tf2crf, chatspace, paddlehub, farm, urduhack, treform, transformers-keras, segmentation-pipeline, paddlex, nlp-nn, musket-text, farm-haystack, classification-pipeline, anago, yonlu, x-tagger, transquest, sikufenci, pyabsa, poros, paddlexrest, paddlefsl, ohmeow-blurr, nmatheg, nlp-basictasks, nlp-architect, neraug, musket-ml, mudes, langml, keras-crf, kashgari, interpret-eval, indo-arabic-transliteration, fast-bert, fancy-nlp, explainaboard, eaas, dltkdl, delta-nlp, deepse, deepoffense, daluke, claf, chatchecker, bpnlp, auto-query-cluster, arkab, anago-py367, PyABSA, DeBERTa, DLTKDL
+tensorflow-serving-api, keras-tuner, tensorflow-transform, tfx-bsl, tensorflow-model-analysis, tensorflow-data-validation, tensorflow-cloud, ml-metadata, autokeras, witwidget, tfx, tensorflow-ranking, fathom-lib, yulong-tfx, wyljpn-tfx, wyl-tfx, waseda-tfx, tfrecorder, tensorflow-model-remediation, tensorflow-enterprise-addons, tensorflow-auto, tensorboard-plugin-fairness-indicators, salure-tfx-extensions, rflow-tfx, racket, nudeclient, model-card-toolkit, model-card, mlmd-dataset-management, loganary-ranking, levatas-alira, kubeflow-kale, kerastuner-tensorboard-logger, igel, gabrieltool, frapi, fairness-indicators, data-class-detection, das, commented-out-code, capreolus, blobcity, auto-tensorflow, auto-ml-cl, alira, ailab-lite, RackioAI, MLAC
+onnxmltools, tensorflowjs, azureml-automl-runtime, keras2onnx, azureml-train-automl-runtime, deepctr, azureml-automl-core, libra, azureml-train-automl, winmltools, tflite-model-maker, tfjs-graph-converter, tensorspacejs, sonusai, perfect-information-game, papyrus-ai, oracle-ads, mlsquare, mlmodels, miping, marcelle, lukai, deepctr-torch, deeparch, ddsp, azureml-contrib-automl-dnn-vision, azureml-contrib-automl-dnn-forecasting, azureml-automl-dnn-vision, azureml-automl-dnn-nlp, aimodelshare
+rasa, rasa-core, rasafou, vma-nlu, sani-nlu, rukip, roboai-cli, robo-bot, rasam, rasahub-rasa, rasa-nlu-gao, rasa-extractors, rasa-ext-plugin, rasa-dialogflow-interpreter, rasa-denerator, rasa-cli-completion, rasa-chinese-plugin, rasa-chinese, rasa-alice, pyspace-toolkit, pre-assistant, neuralspace, coco-rasa
+g2p-en, underthesea, malaya, espnet-tts-frontend, espnet-model-zoo, espnet, pororo, TensorFlowTTS, sports-news-collector, seacorenlp, pyfoal, paddle-parakeet, hawking, ais-wordnet-sim, MorshuTalk, EasyTTS
+tokenizer-tools, seq2annotation, tf-crf-layer, tf-attention-layer, ioflow, deliverable-model, nlp-utils, tf-summary-reader, mtnlpmodel, MicroTokenizer, sem-reject, rasa-contrib, paddle-tokenizer, nlp-dict, mtnlp-model, corpusflow
+alibi, aif360, tempeh, spike-explainability, neurocat, monitaur, machine-learning-datasets, fairmlhealth, fairensics, expybox, explain-spike, bdrk
+gpflow, gpflux, banded-matrices, tsipy, trieste, tpml, sm-trieste, pygpso, mogptk, markovflow, ardiss, BranchedGP
+mlprimitives, mlblocks, mit-d3m, orion-ml, autobazaar, piex, mlbazaar, greenguard, datatracer, cardea, auto-orion
+simpletransformers, tuhlbox, smaberta, simplexfmr-artifact, rpunct, omdenalore, hopstools, happy-learning, datascience-toolkits, condolence-models, animated-memory
+tensorflow-tensorboard, rddlgym, rddl2tf, tfrddlsim, tfextras, tf-plan, tf-mdp, projectowl, jupyter-tensorboard
+bert-for-tf2, twitter-nlp-toolkit, tf-text-model, tf-tagger, email-txt-classification, email-text-classify, cutcut, classification-text-email
+fancyimpute, gmql, paso, genereg, dsbox-datacleaning, datacleanbot, DedupliPy
+asreview, asreview-wordcloud, asreview-visualization, asreview-statistics, asreview-hyperopt, asreview-covid19
+IBATS-Common, IBATS-Huobi-Feeder, IBATS-BitMex-Feeder, IBATS-Huobi-Trader, IBATS-DI-Trader, IBATS-BitMex-Trader
+ml-logger, baselines, playground, graph-search, env-wrappers, cde
+waymo-open-dataset-tf-2-3-0, waymo-open-dataset-tf-2-2-0, waymo-open-dataset-tf-2-1-0, waymo-open-dataset-tf-2-0-0, waymo-open-dataset-2-0-0, lingvo
+alibi-detect, mlserver-alibi-detect, kmex, katme, flowi
+deepface, retina-face, privyfilter, metahuman-0.1, metahuman
+deeplabcut, toxopy, freemocap, anipose, Python-video-annotator-module-deeplab
+mhcflurry, mhcnuggets, pvactools, neoepiscope, cressp
+notedrive, notedata, noteplay, notefight, noteblog
+pymltoolkit, snowpy, python-mltk, TextLab, TextAnalyticsLab
+stable-baselines, nappo, gym-jiminy, gym-collision-avoidance, DynEnv
+barbell2, hpb-mumc-dashboard, castordashboard, autosegl3
+deepac, deepacvir, deepacstrain, deepaclive
+deepcut, frequencyWord, frequency, BoydCut
+hypernets, deeptables, hypergbm, cooka
+imagededup, dedup-img, cloverwallpaper, autotoloka
+keras-rl2, keract, deeplookup, DXC-RL
+mlfinlab, linkkt-end, linkkt-e2e-handlers, link-jam-handle
+nyoka, ml2xl, ai2xl, ai2table
+cellfinder-core, cellfinder-napari, cellfinder
+clu, brax, deluca
+cooptools, coopgraph, coopgame
+deeppavlov, omniscient, let-me-answer-for-you
+EQTransformer, seisloc, cuhk-seis
+fer, roboidai, VideoChatBot
+memcnn, iunets, ganslate
+misic, MiSiC, misic-napari-plugin
+ocr4all-pixel-classifier, ocrd-pc-segmentation, ocr4all-pixel-classifier-frontend
+pdftotree, pdf, fonduer
+pyserini, experimaestro-ir, OpenNIR-XPM
+qfast, qfast-uq, qfast-sc
+rbm, pynipt-plugin-uncch-core, pynipt-plugin-uncch-camri
+saliency, bim, bam-intp
+spektral, menten-gcn, bark-ml
+spleeter, resuber, omnizart
+tensornetwork, tensorcircuit, lambeq
+textattack, textflint, fibber
+vak, tweetynet, vak-test-net
+vegasflow, pdfflow, madflow
+wf-smcmodel, wf-smcmodel-localize, wf-process-ble-data
+125softNLP, all-packages
+ailabtools, ailabdc-client
+aitk.networks, aitk
+antinex-utils, antinex-core
+auto-face-recognition, JarvisAI
+betsi-ml, polaris-ml
+buzz, buzzword
+caer, canaro
+causalml, JustCause
+chemml, chemeco
+chia, chia-tools
+coach-ml, coach-cli
+coreferee, holmes-extractor
+cornac, librec-auto
+cross-framework-hpo, crossedwires
+cut-sent-thai, pypolarity
+dafd, lfr
+DecoID, srm-helper
+deepbrain, pynets
+deeplabcut-live, deeplabcut-live-gui
+dffml-model-tensorflow, dffml-model-tensorflow-hub
+dnntime, autotime
+dnnv, dnnf
+dolfin-adjoint, gyptis
+easierai-common-functions, easierai-trainer-library
+eleanor-mamu, smurfs
+entity-embeddings-categorical, digipathos
+FCD, guacamol
+focal-loss, my-test-pkg-tnfru
+foundry-ml, foundry-ml-cli
+fsds-100719, fsds
+gdmix-trainer, gdmix-workflow
+graphgallery, graphadv
+guesslang, fluffy-server
+idtrackerai-app, idtrackerai
+iva-applications, iva-classification-demo
+keras-lmu, lmu
+layer-client, layer-sdk
+linora, tensorview
+lobe, aebo
+mc-transformers, mcqa-utils
+musicnn, synesthesia-uf
+neupy, OutbreakPAD
+neuralintents, GenericNeuralAssistant
+nfp, alfabet
+niftiprocessing, brainseg
+nlpia, anomalous
+nmrgnn-data, nmrgnn
+nucleaizer-backend, napari-nucleaizer
+odin-ai, sisua
+Potosnail, Potofox
+pydiscotools, pydiscotool-cli
+pyronn-layers, pyronn
+qibo, qilimanjaroq-server
+quantumflow, qf-diamond-norm
+scgen, stVAE
+see-rnn, deeptrain
+sfaira, scArchest
+signal-transformation, resnet-models
+snvoter, nanomethphase
+sonia, sonnia
+stardist-napari, devbio-napari
+tensorflow-serving-api-gpu, witwidget-gpu
+tf-fast-api, tf-x-transformers
+transferflow, ezLncPred
+turicreate, board-game-recommender
+vcap, vcap-utils
+vecto, ldt
+waymo-open-dataset, hub
+zero-play, shibumi
+car-speed-detection
+payment-text-parser
+torchlite
