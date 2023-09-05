@@ -14,6 +14,6 @@ cairocffi==1.3.0
 numpy==1.22.3
 leidenalg==0.8.10
 multipy==0.16
-scipy==1.8.0
+scipy==1.10.0
 openpyxl==3.0.9
 nltk==3.8.1
