@@ -261,8 +261,8 @@ The steps of labeling guidelines are as follows:
 ### labelling rules
 We summarize a set of carefully justified rules for resolving angiguities and conflicts during the labelling process.
 
-- *Applications* and *Sciences* First. Some packages may be related to both an *application* or *Sciences* domain and a domain in the other categories. In these cases, assign these packages to corresponding *Application* or *Sciences* domain. For example, `textattack` is a Python framework for adversarial attacks, data augmentation, and model training in NLP. We assign it to the `NLP` domain.
+- *Applications* and *Sciences* First. Some packages may be related to both an *application* or *Sciences* domain and a domain in the other categories. In these cases, assign these packages to corresponding *Application* or *Sciences* domain. For example, `textattack` is a Python framework for adversarial attacks, data augmentation, and model training in NLP. We assign it to the `NLP` domain instead of `Social Aspects`.
 
-- *Sciences* is over *Applications*. It is natural deep learning technique applied in some *Sciences* domains are similar to *Applications* domains, e.g., cell detection are essentially object detection tasks in CV. Considering the particularity of scientific tasks, in these cases, assign the packages to *Sciences* domains.
+- *Sciences* is over *Applications*. It is natural deep learning technique applied in some *Sciences* domains are similar to *Applications* domains, e.g., cell detection are essentially object detection tasks in CV. Considering the particularity of scientific tasks, in these cases, assign the packages to *Sciences* domains. This also aligns with the topic division of NeurIPS.
 
-- *Infrastructure* packages are not confined to a certain domain, e.g., NLP, but serve various domains. If a package is for general purpose, assign it under the *Infrastructure* category.
+- *Infrastructure* packages are not confined to a certain *Application* or *Science* domain, e.g., NLP, but rather provide functionalities applicable to multiple *Application* or *Science* domains. If a package is applicable to multiple *Application* or *Science* domains (e.g., CV, NLP, and Audio), assign it under the *Infrastructure* category.
