@@ -1,0 +1,235 @@
+name,PyTorch,TensorFlow,pypi_page,repository,description,final code
+keras2onnx,False,True,https://pypi.org/project/keras2onnx,https://github.com/onnx/keras-onnx,The keras2onnx model converter enables users to convert Keras models into the ONNX model format.,Infrastructure->Model Conversion
+tensor2tensor,False,True,https://pypi.org/project/tensor2tensor,https://github.com/tensorflow/tensor2tensor,"Tensor2Tensor, or T2T for short, is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",Infrastructure->Framework
+attacut,True,False,https://pypi.org/project/attacut,https://github.com/PyThaiNLP/attacut,Fast and Reasonably Accurate Word Tokenizer for Thai,Applications->NLP
+bs-ds,False,True,https://pypi.org/project/bs-ds,https://github.com/jirvingphd/bs_ds,PyPi-Published Package of Code and Tools written as a student in Flatiron's Data Science Bootcamp,Unclear->Unclear
+allennlp,True,False,https://pypi.org/project/allennlp,https://github.com/allenai/allennlp,"An Apache 2.0 NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.",Applications->NLP
+torchfunc-nightly,True,False,https://pypi.org/project/torchfunc-nightly,https://github.com/szymonmaszke/torchfunc,"torchfunc is PyTorch oriented library with a goal to help you with: Improving and analysing performance of your neural network Record/analyse internal state of torch.nn.Module as data passes through it Do the above based on external conditions (using single Callable to specify it) Day-to-day neural network related duties (model size, seeding, performance measurements etc.) Get information about your host operating system, CUDA devices and others",Miscellaneous Tools->Miscellaneous Tools
+mindmeld,False,True,https://pypi.org/project/mindmeld,https://github.com/cisco/mindmeld,The MindMeld Conversational AI platform is among the most advanced AI platforms for building production-quality conversational applications.,Applications->NLP
+edward,False,True,https://pypi.org/project/edward,https://github.com/blei-lab/edward,"A library for probabilistic modeling, inference, and criticism",Probablistics Methods->Probablistics Methods
+gordo-components,False,True,,,,
+model-zoo,False,True,,,,
+fer,False,True,,,,
+aim-cli,True,False,https://pypi.org/project/aim-cli,,"A super-easy way to record, search and compare AI experiments.",Infrastructure->Monitoring
+model-converters,False,True,,,,
+spflow,True,False,,,,
+transfer,False,True,,,,
+seqeval,False,True,https://pypi.org/project/seqeval,https://github.com/chakki-works/seqeval,"seqeval is a Python framework for sequence labeling evaluation. seqeval can evaluate the performance of chunking tasks such as named-entity recognition, part-of-speech tagging, semantic role labeling and so on.",Applications->NLP
+yo-ds,False,True,,,,
+jlpyutils,True,True,https://pypi.org/project/jlpyutils,https://github.com/jlnerd/JLpyUtils.git,"Custom modules/classes/methods for various data science, computer vision, and machine learning operations in python.",Miscellaneous Tools->Miscellaneous Tools
+cornac,True,True,https://pypi.org/project/cornac,https://github.com/PreferredAI/cornac,"Cornac is a comparative framework for multimodal recommender systems. It focuses on making it convenient to work with models leveraging auxiliary data (e.g., item descriptive text and image, social network, etc). Cornac enables fast experiments and straightforward implementations of new models. It is highly compatible with existing machine learning libraries (e.g., TensorFlow, PyTorch).",Applications->IR
+deepbay,False,True,,,,
+tensorflow-io,False,True,https://pypi.org/project/tensorflow-io,https://github.com/tensorflow/io,TensorFlow I/O is a collection of file systems and file formats that are not available in TensorFlow's built-in support.,Infrastructure->Data Processing
+optimuspyspark,False,True,https://pypi.org/project/optimuspyspark,https://github.com/ironmussa/Optimus,Optimus is the missing framework for cleaning and pre-processing data in a distributed fashion with pyspark.,Infrastructure->Data Processing
+deepsegment,False,True,,,,
+asreview,False,True,https://pypi.org/project/asreview,https://github.com/asreview/asreview,A tool for AI-assisted systematic reviews,Applications->NLP
+deeppavlov,False,True,https://pypi.org/project/deeppavlov,https://github.com/deepmipt/DeepPavlov,An open source library for building end-to-end dialog systems and training chatbots.,Applications->NLP
+baal,True,False,,,,
+g2p-en,False,True,https://pypi.org/project/g2p-en,https://github.com/Kyubyong/g2p,This module is designed to convert English graphemes (spelling) to phonemes (pronunciation),Applications->NLP
+fastai,True,False,https://pypi.org/project/fastai,https://github.com/fastai/fastai,fastai simplifies training fast and accurate neural nets using modern best practices,Infrastructure->Framework
+lumin,True,False,,,,
+torchtext,True,False,https://pypi.org/project/torchtext,https://github.com/pytorch/text,Text utilities and datasets for PyTorch,Applications->NLP
+tempeh,True,True,https://pypi.org/project/tempeh,https://github.com/microsoft/tempeh,tempeh is a framework to TEst Machine learning PErformance exHaustively which includes tracking memory usage and run time.,Infrastructure->Monitoring
+stanfordnlp,True,False,https://pypi.org/project/stanfordnlp,https://github.com/stanfordnlp/stanfordnlp.git,StanfordNLP: A Python NLP Library for Many Human Languages,Applications->NLP
+tensorflow-tensorboard,False,True,https://pypi.org/project/tensorflow-tensorboard,https://github.com/tensorflow/tensorboard,TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.,Infrastructure->Monitoring
+deepcut,False,True,https://pypi.org/project/deepcut,https://github.com/rkcosmos/deepcut,A Thai word tokenization library using Deep Neural Network,Applications->NLP
+gnes,True,False,,,,
+ml-logger,False,True,https://pypi.org/project/ml-logger,https://github.com/episodeyang/ml_logger,"ML-Logger, A Simple and Scalable Logging Utility With a Beautiful Visualization Dashboard That Is Super Fast",Infrastructure->Monitoring
+keras-tuner,False,True,https://pypi.org/project/keras-tuner,https://github.com/keras-team/keras-tuner,A Hyperparameter Tuning Library for Keras,Infrastructure->AutoML
+astrodash,False,True,https://pypi.org/project/astrodash,https://github.com/daniel-muthukrishna/DASH,Deep Learning for Automated Spectral Classification of Supernovae,Sciences->Physics
+automl,False,True,https://pypi.org/project/automl,https://github.com/ClimbsRocks/auto_ml,Automated machine learning for production and analytics,Infrastructure->AutoML
+astrorapid,False,True,https://pypi.org/project/astrorapid,https://github.com/daniel-muthukrishna/astrorapid,Real-time Automated Photometric IDentification of astronomical transients,Sciences->Physics
+coach-cli,False,True,,,,
+keras-model-specs,False,True,,,,
+tensorflow-text,False,True,https://pypi.org/project/tensorflow-text,https://github.com/tensorflow/text,"TF.Text is a TensorFlow library of text related ops, modules, and subgraphs. The library can perform the preprocessing regularly required by text-based models, and includes other features useful for sequence modeling not provided by core TensorFlow.",Applications->NLP
+tensorflow-federated,False,True,https://pypi.org/project/tensorflow-federated,https://github.com/tensorflow/federated,"TensorFlow Federated (TFF) is an open-source framework for machine learning and
+other computations on decentralized data.",Social Aspects->Social Aspects
+diffgram,False,True,,,,
+easierai-common-functions,False,True,,,,
+tensorflow-serving-api,False,True,https://pypi.org/project/tensorflow-serving-api,https://www.tensorflow.org/tfx/guide/serving,"TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments.",Infrastructure->Deployment
+anago,False,True,,,,
+mesh-tensorflow,False,True,https://pypi.org/project/mesh-tensorflow,https://github.com/tensorflow/mesh,"Mesh TensorFlow (mtf) is a language for distributed deep learning, capable of specifying a broad class of distributed tensor computations. The purpose of Mesh TensorFlow is to formalize and implement distribution strategies for your computation graph over your hardware/processors. Mesh TensorFlow is implemented as a layer over TensorFlow.",Infrastructure->Distributed Training
+adversarial-robustness-toolbox,False,True,https://pypi.org/project/adversarial-robustness-toolbox,https://github.com/IBM/adversarial-robustness-toolbox,Toolbox for adversarial machine learning.,Social Aspects->Social Aspects
+smote-variants,False,True,,,,
+tflibs,False,True,https://pypi.org/project/tflibs,https://github.com/shygiants/tflibs,Libraries for easy bootstrapping TensorFlow project,Unclear->Unclear
+object-detection,False,True,,,,
+tensorflow-probability,False,True,https://pypi.org/project/tensorflow-probability,https://github.com/tensorflow/probability,"TensorFlow Probability is a library for probabilistic reasoning and statistical analysis in TensorFlow. As part of the TensorFlow ecosystem, TensorFlow Probability provides integration of probabilistic methods with deep networks, gradient-based inference via automatic differentiation, and scalability to large datasets and models via hardware acceleration (e.g., GPUs) and distributed computation.",Probablistics Methods->Probablistics Methods
+musket-ml,False,True,,,,
+gpt-2-finetuning,False,True,,,,
+baselines,False,True,,,,
+torch-tagger,True,False,,,,
+homevee,False,True,https://pypi.org/project/homevee,https://github.com/Homevee/Homevee,Dein neues Smarthome-System!,Unclear->Unclear
+buzzword,False,True,,,,
+tfx-bsl,False,True,https://pypi.org/project/tfx-bsl,https://github.com/tensorflow/tfx-bsl,tfx_bsl (TFX Basic Shared Libraries) contains libraries shared by many TFX (TensorFlow eXtended) libraries and components.,Unclear->Unclear
+nlpia,False,True,https://pypi.org/project/nlpia,https://github.com/totalgood/nlpia,"Examples and libraries for ""Natural Language Processing in Action"" book",Education->Education
+pyro-ppl,True,False,https://pypi.org/project/pyro-ppl,https://github.com/pyro-ppl/pyro,"Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch.",Probablistics Methods->Probablistics Methods
+imagededup,False,True,,,,
+calamari-ocr,False,True,,,,
+hyperactive,False,True,,,,
+malaya,False,True,https://pypi.org/project/malaya,https://github.com/huseinzol05/Malaya,"Malaya is a Natural-Language-Toolkit library for bahasa Malaysia, powered by Tensorflow and PyTorch.",Applications->NLP
+stable-baselines,False,True,https://pypi.org/project/stable-baselines,https://github.com/hill-a/stable-baselines,Stable Baselines is a set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.,Reinforcement Learning->Reinforcement Learning
+dopamine-rl,False,True,https://pypi.org/project/dopamine-rl,https://github.com/google/dopamine,Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.,Reinforcement Learning->Reinforcement Learning
+tensorflowservingclient,False,True,,,,
+torchkge,True,False,,,,
+classification-pipeline,False,True,,,,
+tensorflow-gpu,False,True,,,,
+tfcoreml,False,True,,,,
+omnis,False,True,https://pypi.org/project/omnis,https://github.com/mkh48v/omnis,"Omnis is a library of deep neural network applications, written in Python and capable of running on top of Keras and Tensorflow. It was developed with a focus on enabling fast application of deep learning. Use Omnis if you need a deep learning library that: Is EASY to learn. Allows for easy and fast use. Supports CNN, LSTM, GAN applications.",Infrastructure->Framework
+tensorflow-addons,False,True,https://pypi.org/project/tensorflow-addons,https://github.com/tensorflow/addons,"TensorFlow Addons is a repository of contributions that conform to well- established API patterns, but implement new functionality not available in core TensorFlow. TensorFlow natively supports a large number of operators, layers, metrics, losses, and optimizers. However, in a fast moving field like ML, there are many interesting new developments that cannot be integrated into core TensorFlow (because their broad applicability is not yet clear, or it is mostly used by a smaller subset of the community).",Infrastructure->Framework
+onnxmltools,False,True,https://pypi.org/project/onnxmltools,https://github.com/onnx/onnxmltools,ONNXMLTools enables you to convert models from different machine learning toolkits into ONNX. ,Infrastructure->Model Conversion
+pytorch-nlp,True,False,https://pypi.org/project/pytorch-nlp,https://github.com/Deepblue129/PytorchNLP,"PyTorch-NLP, or torchnlp for short, is a library of basic utilities for PyTorch Natural Language Processing (NLP). torchnlp extends PyTorch to provide you with basic text data processing functions.",Applications->NLP
+sciann,False,True,https://pypi.org/project/sciann,https://github.com/sciann/sciann,A Keras/Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks.,Sciences->Mathematics
+keras-metrics,False,True,https://pypi.org/project/keras-metrics,https://github.com/netrack/keras-metrics,This package provides metrics for evaluation of Keras classification models. The metrics are safe to use for batch-based model evaluation.,Infrastructure->Evaluation
+aether,False,True,https://pypi.org/project/aether,https://github.com/davidbernat/aether-user,"The Aether platform is a system of applications and utilities for developers to rapidly and easily build algorithms that use satellite and geospatial data. The Aether platform is designed to allow user-developers to compile and publish their applications as easily as they prototype, often with the same code.",Sciences->Other Disciplines
+anyrl,False,True,https://pypi.org/project/anyrl,https://github.com/unixpickle/anyrl-py,It is a general-purpose library for Reinforcement Learning which aims to be as modular as possible,Reinforcement Learning->Reinforcement Learning
+flair,True,False,https://pypi.org/project/flair,https://github.com/flairNLP/flair,"Flair is: A powerful NLP library. Flair allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages. A text embedding library. Flair has simple interfaces that allow you to use and combine different word and document embeddings, including our proposed Flair embeddings and various transformers. A PyTorch NLP framework. Our framework builds directly on PyTorch, making it easy to train your own models and experiment with new approaches using Flair embeddings and classes.",Applications->NLP
+canton,False,True,,,,
+inltk,True,False,,,,
+neupy,False,True,,,,
+headliner,False,True,,,,
+seldon-core,False,True,https://pypi.org/project/seldon-core,https://github.com/SeldonIO/seldon-core,"An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",Infrastructure->MLOps Platform
+google-nucleus,False,True,,,,
+deepcon,False,True,,,,
+tensorpy,False,True,,,,
+pyjamas-rfglab,False,True,,,,
+sigproextractor,True,False,,,,
+ludwig-myelin,False,True,,,,
+demyst-analytics,False,True,https://pypi.org/project/demyst-analytics,,No Description,Unclear->Unclear
+gpt2-client,False,True,,,,
+ml-metadata,False,True,https://pypi.org/project/ml-metadata,https://github.com/google/ml-metadata,"ML Metadata (MLMD) is a library for recording and retrieving metadata associated with ML developer and data scientist workflows. Every run of a production ML pipeline generates metadata containing information about the various pipeline components, their executions (e.g. training runs), and resulting artifacts (e.g. trained models). In the event of unexpected pipeline behavior or errors, this metadata can be leveraged to analyze the lineage of pipeline components and debug issues. Think of this metadata as the equivalent of logging in software development.",Infrastructure->Monitoring
+tensorflowonspark,False,True,https://pypi.org/project/tensorflowonspark,https://github.com/yahoo/TensorFlowOnSpark,"It enables both distributed TensorFlow training and inferencing on Spark clusters, with a goal to minimize the amount of code changes required to run existing TensorFlow programs on a shared grid.",Infrastructure->Distributed Training
+payment-text-parser,True,True,,,,
+buzz,False,True,,,,
+ax-platform,True,False,https://pypi.org/project/ax-platform,https://github.com/facebook/Ax,"Ax is an accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments. Adaptive experimentation is the machine-learning guided process of iteratively exploring a (possibly infinite) parameter space in order to identify optimal configurations in a resource-efficient manner. Ax currently supports Bayesian optimization and bandit optimization as exploration strategies. Bayesian optimization in Ax is powered by BoTorch, a modern library for Bayesian optimization research built on PyTorch.",Infrastructure->AutoML
+segmentation-pipeline,False,True,,,,
+xt-training,True,False,,,,
+torchdata-nightly,True,False,https://pypi.org/project/torchdata-nightly,https://github.com/szymonmaszke/torchdata,404 not found,Unclear->Unclear
+fancyimpute,False,True,https://pypi.org/project/fancyimpute,https://github.com/iskandr/fancyimpute,A variety of matrix completion and imputation algorithms implemented in Python 3.6.,Infrastructure->Data Processing
+sagemaker-tensorflow,False,True,,,,
+pytorch-pretrained-bert,True,False,https://pypi.org/project/pytorch-pretrained-bert,https://github.com/huggingface/pytorch-pretrained-BERT,PyTorch version of Google AI BERT model with script to load Google pre-trained models,Applications->NLP
+finntk,True,False,,,,
+keras-trainer,False,True,,,,
+azureml-automl-core,False,True,https://pypi.org/project/azureml-automl-core,https://learn.microsoft.com/en-us/rest/api/azureml/,Contains the non-ML non-Azure specific common code associated with running AutoML.,Infrastructure->MLOps Platform
+deepbgc,False,True,,,,
+torchfun,True,False,https://pypi.org/project/torchfun,https://github.com/sorenchiron/torchfun,A collection of functions/classes that supplements torch functionality.,Miscellaneous Tools->Miscellaneous Tools
+rnasamba,False,True,,,,
+onnx-tf,False,True,https://pypi.org/project/onnx-tf,https://github.com/onnx/onnx-tensorflow,Tensorflow backend for ONNX (Open Neural Network Exchange).,Infrastructure->Model Conversion
+flambe,True,False,,,,
+streamlit,False,True,https://pypi.org/project/streamlit,https://github.com/treuille/streamlet-cloud,"Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our Community Cloud platform to deploy, manage, and share your app.",Infrastructure->Deployment
+tensorflow-ranking,False,True,https://pypi.org/project/tensorflow-ranking,https://github.com/tensorflow/ranking,TensorFlow Ranking is a framework to define learning-to-rank models.,Applications->IR
+miscnn,False,True,https://pypi.org/project/miscnn,https://github.com/frankkramer-lab/MIScnn,The open-source Python library MIScnn is an intuitive API allowing fast setup of medical image segmentation pipelines with state-of-the-art convolutional neural network and deep learning models in just a few lines of code.,Sciences->Medicine
+bert-for-tf2,False,True,https://pypi.org/project/bert-for-tf2,https://github.com/kpe/bert-for-tf2,A TensorFlow 2.0 Keras implementation of BERT.,Applications->NLP
+relion-yolo-it,False,True,,,,
+lightwood,True,False,https://pypi.org/project/lightwood,https://github.com/mindsdb/lightwood,Lightwood is an AutoML framework that enables you to generate and customize machine learning pipelines declarative syntax called JSON-AI.,Infrastructure->AutoML
+fsds-100719,False,True,,,,
+stock-analysis-engine,False,True,https://pypi.org/project/stock-analysis-engine,https://github.com/AlgoTraders/stock-analysis-engine,"Build and tune investment algorithms for use with artificial intelligence (deep neural networks) with a distributed stack for running backtests using live pricing data on publicly traded companies with automated datafeeds from: IEX Cloud, Tradier and FinViz (includes: pricing, options, news, dividends, daily, intraday, screeners, statistics, financials, earnings, and more).",Sciences->Economy
+rasa-nlu-gao,False,True,,,,
+tensorflow,False,True,,,,
+nidaba,True,False,,,,
+catalyst,True,True,https://pypi.org/project/catalyst,https://github.com/catalyst-team/catalyst,"Catalyst is a PyTorch framework for Deep Learning Research and Development. It focuses on reproducibility, rapid experimentation, and codebase reuse so you can create something new rather than write yet another train loop.",Infrastructure->Framework
+toai-mokahaiku,False,True,,,,
+qucumber,True,False,,,,
+keras-tqdm,False,True,https://pypi.org/project/keras-tqdm,https://github.com/bstriner/keras-tqdm,Keras models with TQDM progress bars in Jupyter notebooks,Infrastructure->Monitoring
+poros,False,True,,,,
+fastnlp,True,False,,,,
+tensorflow-data-validation,False,True,https://pypi.org/project/tensorflow-data-validation,https://github.com/tensorflow/data-validation,A library for exploring and validating machine learning data.,Infrastructure->Data Processing
+pydp,False,True,,,,
+tensorflow-cpu,False,True,,,,
+smitotext,False,True,https://pypi.org/project/smitotext,https://github.com/jjeaby/SmiToText,test processing,Unclear->Unclear
+witwidget,False,True,https://pypi.org/project/witwidget,https://github.com/tensorflow/tensorboard,The witwidget package adds the What-If Tool to Jupyter and Colaboratory notebooks as a widget. The What-If Tool is an interactive visual probe for ML model understanding. ,Social Aspects->Social Aspects
+kornia,True,False,https://pypi.org/project/kornia,https://github.com/kornia/kornia,Kornia is a differentiable computer vision library for PyTorch.,Applications->CV
+draugr,True,False,https://pypi.org/project/draugr,https://github.com/cnheider/draugr,A utility package for... pytorch stuff visualisations plotting directly in your terminal python in general opencv images numpy array functions,Applications->CV
+python-video-annotator-module-deeplab,False,True,,,,
+botorch,True,False,https://pypi.org/project/botorch,https://github.com/pytorch/botorch,BoTorch is a library for Bayesian Optimization built on PyTorch.,Probablistics Methods->Probablistics Methods
+torchtrain,True,False,,,,
+ibats-bitmex-trader,False,True,,,,
+cimcb,False,True,,,,
+ecnet,False,True,,,,
+fast-bert,True,False,https://pypi.org/project/fast-bert,https://github.com/kaushaltrivedi/fast-bert,Fast-Bert is the deep learning library that allows developers and data scientists to train and deploy BERT and XLNet based models for natural language processing tasks beginning with Text Classification.,Applications->NLP
+deepbrainseg,True,False,,,,
+ibats-bitmex-feeder,False,True,,,,
+azureml-contrib-brainwave,False,True,,,,
+antinex-core,False,True,https://pypi.org/project/antinex-core,https://github.com/jay-johnson/antinex-core,Automating network exploit detection using highly accurate pre-trained deep neural networks.,Applications->Security
+isr,False,True,https://pypi.org/project/isr,https://github.com/idealo/image-super-resolution/,ISR (Image Super-Resolution) is a library to upscale and improve the quality of low resolution images.,Applications->CV
+torchaudio,True,False,https://pypi.org/project/torchaudio,https://github.com/pytorch/audio,An audio package for PyTorch,Applications->Audio
+gcgc,True,True,,,,
+n2d,False,True,,,,
+antinex-utils,False,True,,,,
+musket-core,False,True,,,,
+kaggler,False,True,https://pypi.org/project/kaggler,https://github.com/jeongyoonlee/Kaggler,Kaggler is a Python package for lightweight online machine learning algorithms and utility functions for ETL and data analysis.,Miscellaneous Tools->Miscellaneous Tools
+kraken,True,False,https://pypi.org/project/kraken,https://github.com/mittagessen/kraken,kraken is a turn-key OCR system optimized for historical and non-Latin script material.,Applications->CV
+bxtorch,True,False,https://pypi.org/project/bxtorch,https://github.com/borchero/bxtorch,BxTorch is a high-level library for large-scale machine learning in PyTorch. It is engineered both to cut obsolete boilerplate code while preserving the flexibility of PyTorch to create just about any deep learning model.,Infrastructure->Framework
+ailabtools,False,True,https://pypi.org/project/ailabtools,,Common tools for Zalo AILab,Unclear->Unclear
+jupyter-tensorboard,False,True,https://pypi.org/project/jupyter-tensorboard,https://github.com/lspvic/jupyter_tensorboard,"A jupyter server extension for better collaboration between jupyter notebook and tensorboard (a visualization tool for tensorflow), providing graphical user interface for tensorboard start, manage and stop in jupyter interface. ",Infrastructure->Monitoring
+pangeamt-toolkit,True,False,,,,
+kfac,False,True,https://pypi.org/project/kfac,https://github.com/tensorflow/kfac,"K-FAC in TensorFlow is an implementation of K-FAC, an approximate second-order optimization method, in TensorFlow.",Infrastructure->Optimization
+thop,True,False,https://pypi.org/project/thop,https://github.com/Lyken17/pytorch-OpCounter,A tool to count the FLOPs of PyTorch model.,Infrastructure->Monitoring
+medaka,False,True,https://pypi.org/project/medaka,https://github.com/nanoporetech/medaka,medaka is a tool to create consensus sequences and variant calls from nanopore sequencing data.,Sciences->Biology
+minetorch,True,False,https://pypi.org/project/minetorch,https://github.com/minetorch/minetorch,"Minetorch is a tools collection for miners, to use PyTorch in a more convenient way. Logging of course. Play with Google Sheets. Visualization. built-in with Tensorboard or Matplotlib. Resumption. Default will resume from the last checkpoint. Many hook points. Training code. Or actually a namespace, used to easily sperate different training status.",Miscellaneous Tools->Miscellaneous Tools
+easyimages,True,False,,,,
+learnbot-dsl,False,True,,,,
+deepsr,False,True,,,,
+pytorch-transformers,True,False,https://pypi.org/project/pytorch-transformers,https://github.com/huggingface/pytorch-transformers,PyTorch-Transformers (formerly known as pytorch-pretrained-bert) is a library of state-of-the-art pre-trained models for Natural Language Processing (NLP).,Applications->NLP
+deepdefacer,False,True,,,,
+microtokenizer,False,True,https://pypi.org/project/microtokenizer,https://github.com/howl-anderson/MicroTokenizer,A micro tokenizer for Chinese,Applications->NLP
+vtorch,True,True,,,,
+sparkflow,False,True,https://pypi.org/project/sparkflow,https://github.com/lifeomic/sparkflow,"This is an implementation of TensorFlow on Spark. The goal of this library is to provide a simple, understandable interface in using TensorFlow on Spark. With SparkFlow, you can easily integrate your deep learning model with a ML Spark Pipeline. Underneath, SparkFlow uses a parameter server to train the TensorFlow network in a distributed manner. Through the api, the user can specify the style of training, whether that is Hogwild or async with locking.",Infrastructure->Distributed Training
+nlp-architect,True,True,,,,
+spektral,False,True,https://pypi.org/project/spektral,https://github.com/danielegrattarola/spektral,"Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).",Applications->Graph
+elephas,False,True,https://pypi.org/project/elephas,https://github.com/maxpumperla/elephas,"Elephas is an extension of Keras, which allows you to run distributed deep learning models at scale with Spark.",Infrastructure->Distributed Training
+torch,True,False,,,,
+stocker,False,True,,,,
+tokenizer-tools,False,True,,,,
+studioml,False,True,https://pypi.org/project/studioml,https://github.com/studioml/studio,TensorFlow model and data management tool,Infrastructure->Monitoring
+seqtag-keras,False,True,,,,
+opennmt-tf,False,True,https://pypi.org/project/opennmt-tf,https://github.com/OpenNMT/OpenNMT-tf,"OpenNMT-tf is a general purpose sequence learning toolkit using TensorFlow 2. While neural machine translation is the main target task, it has been designed to more generally support: sequence to sequence mapping sequence tagging sequence classification language modeling",Applications->NLP
+tensorflow-graphics,False,True,,,,
+simpletransformers,False,True,https://pypi.org/project/simpletransformers,https://github.com/ThilinaRajapakse/simpletransformers,"This library is based on the Transformers library by HuggingFace. Simple Transformers lets you quickly train and evaluate Transformer models. Only 3 lines of code are needed to initialize, train, and evaluate a model.",Applications->NLP
+yann,True,False,,,,
+coach-ml,False,True,,,,
+mlprimitives,False,True,,,,
+rasa-core,False,True,https://pypi.org/project/rasa-core,https://github.com/RasaHQ/rasa_core,Machine learning based dialogue engine for conversational software.,Applications->NLP
+neural-style,True,False,,,,
+rasa,False,True,https://pypi.org/project/rasa,https://github.com/RasaHQ/rasa,"Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",Applications->NLP
+xenonpy,True,False,,,,
+segsrgan,False,True,https://pypi.org/project/segsrgan,https://github.com/koopa31/SegSRGAN,Segmentation and super resolution GAN network,Applications->CV
+iglovikov-helper-functions,True,True,https://pypi.org/project/iglovikov-helper-functions,https://github.com/ternaus/iglovikov_helper_functions,Unstructured set of the helper functions.,Miscellaneous Tools->Miscellaneous Tools
+pytorch-ignite,True,False,https://pypi.org/project/pytorch-ignite,https://github.com/pytorch/ignite,ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.,Infrastructure->Training Simplication
+snorkel,True,False,https://pypi.org/project/snorkel,https://github.com/snorkel-team/snorkel,A system for quickly generating training data with weak supervision,Infrastructure->Data Processing
+nwae,False,True,,,,
+pytorch-metric-learning,True,False,https://pypi.org/project/pytorch-metric-learning,https://github.com/KevinMusgrave/pytorch-metric-learning,"The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.",Infrastructure->Framework
+cloud-tpu-profiler,False,True,https://pypi.org/project/cloud-tpu-profiler,https://sites.research.google/trc/about/,Trace and profile Cloud TPU performance,Infrastructure->Monitoring
+cf-nlp,False,True,,,,
+axon-conabio,False,True,,,,
+azureml-train-automl,False,True,https://pypi.org/project/azureml-train-automl,https://learn.microsoft.com/en-us/rest/api/azureml/,Used for automatically finding the best machine learning model and its parameters.,Infrastructure->MLOps Platform
+gossipcat,False,True,,,,
+deepctr,False,True,https://pypi.org/project/deepctr,https://github.com/shenweichen/deepctr,"DeepCTR is a Easy-to-use, Modular and Extendible package of deep-learning based CTR (click through rate) models along with lots of core components layers which can be used to easily build custom models",Applications->IR
+torchvision,True,False,https://pypi.org/project/torchvision,https://github.com/pytorch/vision,"The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.",Applications->CV
+melusine,False,True,,,,
+tensorflow-model-analysis,False,True,https://pypi.org/project/tensorflow-model-analysis,https://github.com/tensorflow/model-analysis,"TensorFlow Model Analysis (TFMA) is a library for evaluating TensorFlow models. It allows users to evaluate their models on large amounts of data in a distributed manner, using the same metrics defined in their trainer. These metrics can be computed over different slices of data and visualized in Jupyter notebooks.",Infrastructure->Evaluation
+alphapy,False,True,,,,
+dask-tensorflow,False,True,,,,
+torchani,True,False,,,,
+malaya-gpu,False,True,,,,
+madminer,True,False,,,,
+torchstat,True,False,,,,
+mindsdb,True,True,https://pypi.org/project/mindsdb,https://github.com/mindsdb/mindsdb,MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.,Infrastructure->MLOps Platform
+dl-ext,True,False,,,,
+stellargraph,False,True,https://pypi.org/project/stellargraph,https://github.com/stellargraph/stellargraph,StellarGraph is a Python library for machine learning on graphs and networks.,Applications->Graph
+atman-kg-nlp,True,False,,,,
+mlblocks,False,True,,,,
+learn-flow,False,True,,,,
+segmentation-models-pytorch,True,False,https://pypi.org/project/segmentation-models-pytorch,https://github.com/qubvel/segmentation_models.pytorch,Image segmentation models with pre-trained backbones. PyTorch.,Applications->CV
+bella-tdsa,False,True,,,,
+psyneulink,True,False,,,,
+salure-tfx-extensions,False,True,,,,
+keras-eval,False,True,,,,
+tensorflow-lattice,False,True,https://pypi.org/project/tensorflow-lattice,https://github.com/tensorflow/lattice,"TensorFlow Lattice is a library that implements fast-to-evaluate and interpretable (optionally monotonic) lattice based models, which are also known as interpolated look-up tables.",Social Aspects->Social Aspects
+magenta,False,True,https://pypi.org/project/magenta,https://magenta.tensorflow.org/,Use machine learning to create art and music,Applications->Other Applications
+muffnn,False,True,https://pypi.org/project/muffnn,https://github.com/civisanalytics/muffnn,Multilayer Feed-Forward Neural Network (MuFFNN) models with TensorFlow and scikit-learn,Infrastructure->Model
+mlagents,False,True,https://pypi.org/project/mlagents,https://github.com/Unity-Technologies/ml-agents,The mlagents Python package is part of the ML-Agents Toolkit. mlagents provides a set of reinforcement and imitation learning algorithms designed to be used with Unity environments. ,Reinforcement Learning->Reinforcement Learning
+cnvrg,True,False,https://pypi.org/project/cnvrg,,A Full Stack Machine Learning Operating System,Infrastructure->MLOps Platform
+t5,True,False,https://pypi.org/project/t5,https://github.com/google-research/text-to-text-transfer-transformer,Text-to-text transfer transformer,Applications->NLP
+tensorflowjs,False,True,https://pypi.org/project/tensorflowjs,https://www.tensorflow.org/js,tensorflowjs: The Python Package for TensorFlow.js,Infrastructure->Deployment
+efficientnet-pytorch,True,False,https://pypi.org/project/efficientnet-pytorch,https://github.com/lukemelas/efficientnet_pytorch,EfficientNet implemented in PyTorch.,Applications->CV
+tf-encrypted,False,True,,,,
