@@ -1,0 +1,101 @@
+name,version,requires_dist
+macad-gym,0.1.2,"['gym', 'carla (>=0.9.3)', 'GPUtil', 'pygame', 'opencv-python', 'networkx', ""tox; extra == 'test'"", ""pytest; extra == 'test'"", ""pytest-xdist; extra == 'test'""]"
+ndreg,1.0.0,"['requests', 'numpy', 'SimpleITK', 'scikit-image', 'tifffile', 'scikit-image']"
+deriver,1.0.1,['selfies (>=0.2.4)']
+beamformers,0.5.1,"['scipy', 'numpy', 'soundfile']"
+fret,0.2.8b5,"['toml', ""pytest (>=4) ; extra == 'dev'"", ""pytest-cov (>=2.6.0) ; extra == 'dev'"", ""pytest-pep8 (>=1) ; extra == 'dev'"", ""sphinx ; extra == 'dev'"", ""sphinx-rtd-theme ; extra == 'dev'"", ""recommonmark ; extra == 'dev'"", ""setuptools (>=40) ; extra == 'dev'"", ""wheel ; extra == 'dev'"", ""sphinx ; extra == 'doc'"", ""sphinx-rtd-theme ; extra == 'doc'"", ""recommonmark ; extra == 'doc'"", ""pytest (>=4) ; extra == 'test'"", ""pytest-cov (>=2.6.0) ; extra == 'test'"", ""pytest-pep8 (>=1) ; extra == 'test'""]"
+teneto,0.3.5,"['nilearn (>=0.4.0)', 'pybids (>=0.4.2)', 'statsmodels (>=0.8.0)']"
+pyshac,0.3.4.1,"['numpy (>=1.15.2)', 'scikit-learn (>=0.19.1)', 'pandas (>=0.23.4)', 'joblib (>=0.12.5)', 'loky (>=2.3.1)', 'cloudpickle (>=0.6.1)', 'six (>=1.11.0)', 'xgboost (>=0.80)', 'matplotlib (>=3.0.0); python_version > ""3.0""', ""pytest; extra == 'tests'"", ""coverage; extra == 'tests'"", ""pytest-cov; extra == 'tests'"", ""codecov; extra == 'tests'"", ""matplotlib; extra == 'tests'""]"
+sspipe,0.1.12,"['pipe (==1.5.0)', ""check-manifest; extra == 'dev'"", ""coverage; extra == 'test'""]"
+ldaa,0.1.2,['pandas (>=0.20.0)']
+onnx2bnn,0.1.7,['onnx']
+alt-model-checkpoint,2.0.2,['keras']
+label-maker,0.6.0,"['Cerberus (==1.1)', 'click (==6.7)', 'geojson (==2.3.0)', 'homura (==0.1.5)', 'humanize (==0.5.1)', 'mapbox-vector-tile (==1.2.0)', 'mbutil (==0.3.0)', 'mercantile (==1.0.0)', 'numpy (==1.13.3)', 'olefile (==0.44)', 'Pillow (==4.3.0)', 'protobuf (==3.5.0.post1)', 'pyclipper (==1.0.6)', 'pycurl (==7.43.0.1)', 'pyproj (==1.9.5.1)', 'rasterio[s3] (==1.0a12)', 'requests (>=2.20.0)', 'Shapely (>=1.6.3)', 'six (==1.10.0)', 'tilepie (==0.2.1)']"
+prefopt,0.0.1.dev0,"['edward', 'numpy', 'scipy', 'scipydirect', 'tensorflow', ""pylint; extra == 'lint'"", ""pycodestyle; extra == 'lint'"", ""pydocstyle; extra == 'lint'"", ""coverage; extra == 'tests'"", ""pytest; extra == 'tests'""]"
+spacyjsonnlp,0.1.3,"['spacy (>=2.1)', 'neuralcoref (>=4.0)', 'pyjsonnlp (>=0.2.12)', 'benepar[cpu] (>=0.1.2)', 'cython', 'numpy (>=1.14)']"
+mltome,0.1.0.post1,"['numpy (>=1.13.3)', 'skorch', 'tensorboardx', ""flake8 (>=3.5.0); extra == 'dev'"", ""pytest (>=3.3.2); extra == 'dev'"", ""twine (>=1.9.1); extra == 'dev'"", ""pytest-cov (>=2.5.1); extra == 'dev'"", ""codecov (>=2.0.15); extra == 'dev'"", ""wheel (>=0.32.3); extra == 'dev'"", ""readme-renderer; extra == 'dev'""]"
+pkbar,0.2.1,['numpy']
+fastax,0.1.3,"['jax', 'jaxlib', 'numpy']"
+kagglebuddy,0.0.29,['pandas-summary (>=0.0.5)']
+codex-africanus,0.2.0,"['appdirs (>=1.4.3)', 'decorator', 'numpy (!=1.15.3,>=1.14.0)', 'numba (>=0.43.0)', 'astropy (<3.0,>=2.0.0) ; (python_version <= ""2.7"") and extra == \'astropy\'', 'astropy (>=3.0) ; (python_version >= ""3.0"") and extra == \'astropy\'', ""dask[array] (>=1.1.0) ; extra == 'complete'"", ""flaky ; extra == 'complete'"", ""jax (==0.1.27) ; extra == 'complete'"", ""jaxlib (==0.1.14) ; extra == 'complete'"", ""pytest ; extra == 'complete'"", ""pytest-flake8 ; extra == 'complete'"", ""python-casacore (==3.0.0) ; extra == 'complete'"", ""scipy (>=1.0.0) ; extra == 'complete'"", ""cupy (>=5.0.0) ; extra == 'complete-cuda'"", ""dask[array] (>=1.1.0) ; extra == 'complete-cuda'"", ""flaky ; extra == 'complete-cuda'"", ""jax (==0.1.27) ; extra == 'complete-cuda'"", ""jaxlib (==0.1.14) ; extra == 'complete-cuda'"", ""jinja2 (>=2.10) ; extra == 'complete-cuda'"", ""pytest ; extra == 'complete-cuda'"", ""pytest-flake8 ; extra == 'complete-cuda'"", ""python-casacore (==3.0.0) ; extra == 'complete-cuda'"", ""scipy (>=1.0.0) ; extra == 'complete-cuda'"", 'astropy (<3.0,>=2.0.0) ; (python_version <= ""2.7"") and extra == \'complete-cuda\'', 'astropy (>=3.0) ; (python_version >= ""3.0"") and extra == \'complete-cuda\'', 'astropy (<3.0,>=2.0.0) ; (python_version <= ""2.7"") and extra == \'complete\'', 'astropy (>=3.0) ; (python_version >= ""3.0"") and extra == \'complete\'', ""cupy (>=5.0.0) ; extra == 'cuda'"", ""jinja2 (>=2.10) ; extra == 'cuda'"", ""dask[array] (>=1.1.0) ; extra == 'dask'"", ""jax (==0.1.27) ; extra == 'jax'"", ""jaxlib (==0.1.14) ; extra == 'jax'"", ""python-casacore (==3.0.0) ; extra == 'python-casacore'"", ""scipy (>=1.0.0) ; extra == 'scipy'"", ""pytest ; extra == 'testing'"", ""flaky ; extra == 'testing'"", ""pytest-flake8 ; extra == 'testing'""]"
+track-ml,0.1.1,"['pandas (>=0.20.1)', 'absl-py (>=0.1.13)', 'pyyaml (>=3.12)']"
+jaxnet,0.2.2,"['jax (>=0.1.42)', 'dill']"
+optkeras,0.0.7,"['keras', 'optuna (>=0.9.0)', 'numpy']"
+mittens,0.1,['numpy']
+lemminflect,0.2.0,['numpy']
+dragonfly-core,1.3.0,"['honeybee-core (>=1.7.2)', 'ladybug-geometry (>=1.7.1)']"
+rtcbot,0.1.0,"['aiortc', 'pyserial', 'pyserial-asyncio', 'numpy', 'aiohttp', 'soundcard', 'inputs', 'pynmea2']"
+picard.py,0.1.2,"['typing_extensions (>=3.6,<4.0)', 'boto3 (>=1.9,<2.0); extra == ""aws""']"
+pytorch-skipthoughts,0.4.3,"['pyaap', 'pytorch-sru', 'pytorch-text-utils', 'tqdm', 'visdom-pooled']"
+chunkflow,0.2.8,"['click', 'numpy', 'cloud-volume', 'scikit-image', 'boto3', 'h5py', 'tifffile', 'neuroglancer', 'tinybrain', 'zmesh']"
+plasflow,1.0.6,"['numpy', 'pandas', 'rpy2 (==2.7.8)', 'scikit-learn', 'scipy']"
+tsalib,0.2.1,['sympy']
+sana,0.1.0,['numpy']
+efficientnet,1.0.0,"['keras-applications (<=1.0.8,>=1.0.7)', 'scikit-image', ""pytest ; extra == 'test'""]"
+tebetebe,0.0.1,"['osrm', 'geojson', 'geopandas', 'overpass', 'sh']"
+kim2014convolutional,0.2.0,['keras']
+torchtracer,0.1.5,"['matplotlib', 'numpy']"
+finmeter,1.0.0,['unidecode']
+braincards,0.0.2,"['bfi (==1.0.2)', 'Pillow (==5.4.1)']"
+treet,1.0.5,"[""pytest ; extra == 'dev'"", ""hypothesis ; extra == 'dev'"", ""coverage ; extra == 'dev'"", ""mypy ; extra == 'dev'""]"
+actfw,1.3.2,['Pillow']
+nara-wpe,0.0.6,"['numpy', 'tqdm', 'soundfile', 'bottleneck', 'click', 'pathlib2 ; python_version < ""3.0""', ""check-manifest ; extra == 'dev'"", ""coverage ; extra == 'test'"", ""jupyter ; extra == 'test'"", ""matplotlib ; extra == 'test'""]"
+nestedtensor,0.0.1.dev2019102219,['torch']
+natlang,0.3a29,"['jieba', 'progressbar', 'six', 'astor', 'bashlex']"
+elrados,0.7.2,"['django (<1.9,>=1.8)', 'twisted', 'crochet', 'autobahn', 'rotest (>=7.0.0)']"
+gin-config,0.2.1,"['six (>=1.10.0)', 'enum34 ; python_version<""3""', ""tensorflow (>=1.13.0) ; extra == 'tensorflow'"", ""tensorflow-gpu (>=1.13.0) ; extra == 'tensorflow_gpu'""]"
+rastervision,0.10.0,"['networkx (==2.1)', 'everett (==0.9)', 'pluginbase (==0.7)', 'lxml (==4.2.*)', 'shapely (==1.6.*)', 'pyproj (==1.9.6)', 'imageio (==2.3.*)', 'scikit-learn (==0.19.*)', 'six (==1.11.*)', 'h5py (==2.7.*)', 'matplotlib (==2.1.*)', 'pillow (==5.0.*)', 'click (==6.*)', 'rasterio (==1.0.7)', 'protobuf (==3.6.*)', 'scipy (==1.1.*)', 'supermercado (==0.0.*)', ""boto3 (==1.7.*); extra == 'aws'"", ""awscli (==1.15.*); extra == 'aws'"", ""mask-to-polygons (==0.0.1); extra == 'feature-extraction'"", ""torch (==1.2.*); extra == 'pytorch'"", ""torchvision (==0.4.*); extra == 'pytorch'"", ""tensorboard (==1.14.*); extra == 'pytorch'"", ""numpy (<1.17); extra == 'pytorch'"", ""keras (==2.2.2); extra == 'tensorflow-cpu'"", ""tensorflow (==1.10.1); extra == 'tensorflow-cpu'"", ""keras (==2.2.2); extra == 'tensorflow-gpu'"", ""tensorflow-gpu (==1.10.1); extra == 'tensorflow-gpu'""]"
+tbev,0.1.2,"['colorama', 'docopt']"
+imshowtools,0.2.1,"['numpy', 'matplotlib']"
+keras-models,0.0.7,"['keras', 'numpy', 'spacy', 'Pillow', 'opencv-python', 'pathlib']"
+tixelbox,0.1.3,"['numpy', 'requests', 'requests', 'scipy']"
+evograd,0.1.1,['markdown']
+dlr,1.0,['numpy']
+ktrain,0.1.2,"['keras (>=2.2.4)', 'matplotlib (>=3.0.0)', 'pandas (>=0.24.2)', 'scikit-learn (>=0.20.0)']"
+facenet-pytorch,0.4.0,"['numpy', 'requests']"
+vtext,0.1.0a3,"['setuptools', 'setuptools-rust (>=0.10.2)', 'numpy (>=1.15.0)', 'scipy (>=1.1.0)']"
+onnxtk,0.0.1,"['six', 'numpy', 'protobuf', 'onnx']"
+kfserving,0.2.1.1,"['certifi (>=14.05.14)', 'six (>=1.10)', 'python-dateutil (>=2.5.3)', 'setuptools (>=21.0.0)', 'urllib3 (>=1.15.1)', 'kubernetes (>=10.0.1)', 'tornado (>=1.4.1)', 'argparse (>=1.4.0)', 'minio (>=4.0.9)', 'google-cloud-storage (>=1.16.0)', 'adal (>=1.2.2)', 'table-logger (>=0.3.5)', 'numpy (>=1.17.3)', 'azure-storage-blob (<=2.1.0,>=1.3.0)', ""pytest ; extra == 'test'"", ""pytest-tornasync ; extra == 'test'"", ""mypy ; extra == 'test'""]"
+pysigview,0.0.0b2,"['pyqt5', 'numpy', 'vispy', 'pyopengl', 'pandas', 'scipy', 'bcolz', 'sqlalchemy', 'pymysql', 'pysigview-cs', 'pillow', 'jupyter', 'pymef', 'pydread', 'h5py']"
+cvtoolss,0.0.2,"['numpy (>=1.11.1)', 'opencv-python', 'pillow', 'matplotlib', 'tqdm', 'scikit-learn (>=0.21.2)']"
+concrete-autoencoder,0.0.1,['keras']
+wwu-tinker,0.1a2,['requests']
+gnpy,0.1.3,"['alabaster (==0.7.10)', 'attrs (==17.4.0)', 'Babel (==2.5.3)', 'certifi (==2017.11.5)', 'chardet (==3.0.4)', 'cycler (==0.10.0)', 'decorator (==4.1.2)', 'docutils (==0.14)', 'idna (==2.6)', 'imagesize (==0.7.1)', 'Jinja2 (==2.10)', 'latexcodec (==1.0.5)', 'MarkupSafe (==1.0)', 'matplotlib (==2.1.0)', 'networkx (==2.0)', 'numpy (==1.13.3)', 'oset (==0.1.3)', 'pluggy (==0.6.0)', 'py (==1.5.2)', 'pybtex (==0.21)', 'pybtex-docutils (==0.2.1)', 'Pygments (==2.2.0)', 'pyparsing (==2.2.0)', 'pytest (==3.3.2)', 'python-dateutil (==2.6.1)', 'pytz (==2017.3)', 'PyYAML (==3.12)', 'requests (==2.18.4)', 'scipy (==1.0.0)', 'six (==1.11.0)', 'snowballstemmer (==1.2.1)', 'Sphinx (==1.6.6)', 'sphinxcontrib-bibtex (==0.3.6)', 'sphinxcontrib-websupport (==1.0.1)', 'urllib3 (==1.22)', 'xlrd (==1.1.0)']"
+stadv,0.2.1,"['numpy', 'scipy']"
+espercli,0.0.7,"['cement (==3.0.2)', 'clint (>=0.5.1)', 'colorlog (>=4.0.2)', 'crayons (>=0.2.0)', 'esperclient (>=0.0.10)', 'jinja2 (>=2.10.1)', 'pyyaml (>=5.1)', 'requests (==2.22.0)', 'tabulate (>=0.8.3)', 'tinydb (>=3.13.0)', 'tqdm (>=4.32.1)', 'pyOpenSSL (==19.0.0)']"
+gym-display-advertising,0.0.1,"['gym (>=0.12.5)', 'pandas (>=0.18.1)']"
+pickleable,0.1.3,['checkpointer']
+diversify,0.1.0.1,"['numpy', 'pandas', 'spotipy', 'click', 'colorama', 'python-dotenv']"
+gpu-utils,0.2.8,"['colored (>=1.3,<2.0)', 'nvidia-ml-py3 (>=7.352,<8.0)', 'psutil (>=5.6,<6.0)']"
+efficiency,0.1.1,['numpy']
+xformer,1.0.1,"['numpy (<2.0.0,>=1.0.0)', ""tensorflow (>=1.0.0); extra == 'tf'"", ""tensorflow-gpu (>=1.0.0); extra == 'tf_gpu'""]"
+sas-esppy,6.2.post1,"['pandas (>=0.16.0)', 'pillow', 'six (>=1.9.0)', 'plotly', 'ipywidgets', 'requests', 'graphviz', 'ws4py']"
+mdai,0.4.1,"['arrow', 'matplotlib', 'numpy', 'opencv-python', 'pandas', 'pillow', 'pydicom', 'requests', 'retrying', 'scikit-image', 'tqdm']"
+medvision,0.5.0,"['natsort', 'numpy', 'opencv-python', 'SimpleITK']"
+iceflow,0.0.1a2,"['dm-sonnet (>=1.11)', 'tensorflow (>=1.3.0)']"
+resippy,0.1.1,"['GDAL', 'pyproj', 'numpy (<1.16.0)', 'scipy', 'scikit-image', 'shapely', 'pint (==0.9)', 'imageio', 'seaborn', 'colorutils', 'gdal2tiles']"
+byu-auvsi-imaging-client,0.1.5,"['requests (==2.20.1)', 'pillow (==5.3.0)', 'opencv-python (==3.4.2.*)', 'ttkthemes (==2.2.0)', 'imutils (==0.5.2)']"
+robotoff,1.0.11,"['requests (<3.0.0,>=2.13.0)', 'peewee (==3.10.0)', 'psycopg2-binary (<2.9,>=2.8)', 'elasticsearch (==6.3.1)', 'Click (==7.0)', 'sentry-sdk (==0.7.6)', 'Pillow (>=5.0.0)', 'numpy (>=1.9.1)', 'protobuf (>=3.5.1)', 'Pint (==0.9)', 'dataclasses (>=0.6) ; python_version < ""3.7""']"
+deepcalo,0.2.0,"['numpy (>=1.15.4)', 'keras (>=2.2.4)', 'h5py (>=2.8.0)', 'joblib (>=0.13.0)', 'tqdm (>=4.28.1)', 'scikit-optimize (>=0.5.2+48.g692c21d)', 'keras-contrib (>=2.0.8)', 'keras-drop-block (>=0.4.0)']"
+pythia-learn,0.2.5,"['numpy', 'scipy', 'freud-analysis']"
+ailab,0.0.2,"['GPUtil', 'cefpython3 (==66.0)', 'entangle-python', 'pyte']"
+keras-mobile,1.0.2,['keras']
+lightex,0.0.4,"['easydict', 'dacite', 'kubernetes', 'docker', 'dataclasses; python_version < ""3.7""']"
+delira,0.4.0,"['numpy (>=1.15.0)', 'scikit-image (>=0.14.0)', 'scikit-learn (>=0.20.0)', 'jupyter (>=1.0.0)', 'ipython', 'joblib', 'pillow (>=5.4.1)', 'SimpleITK (>=1.1.0)', 'pylint', 'tqdm', 'visdom (>=0.1.8.5)', 'pyyaml', 'trixi-slim (>0.1.2.1)', 'batchgenerators (!=0.19.2,>=0.18.2)', 'psutil', 'nested-lookup', ""torchvision (>=0.2.1) ; extra == 'full'"", ""torch (>=1.0.0) ; extra == 'full'"", ""trixi (>0.1.2.1) ; extra == 'full'"", ""tensorflow-gpu (==1.13.1) ; extra == 'full'"", ""trixi-slim (>0.1.2.1) ; extra == 'full'"", ""tensorflow-gpu (==1.13.1) ; extra == 'tensorflow'"", ""trixi-slim (>0.1.2.1) ; extra == 'tensorflow'"", ""torchvision (>=0.2.1) ; extra == 'torch'"", ""torch (>=1.0.0) ; extra == 'torch'"", ""trixi (>0.1.2.1) ; extra == 'torch'""]"
+ofegplots,0.0.9,"['pyvista', 'matplotlib', 'cantera']"
+dsrt,0.0.1,"['dsrt', 'h5py']"
+galsim-hub,0.0.1rc2,"['galsim', 'tensorflow', 'tensorflow-hub']"
+kaldi-active-grammar,1.0.1,"['cffi (~=1.12)', 'numpy (~=1.16)', 'ush (~=3.1)', 'requests (>=2)', 'six', 'futures ; python_version == ""2.7""']"
+tf-env,0.1.0,"['numpy', 'anyrl (<0.13.0,>=0.11.0)', ""tensorflow (>=1.4.0); extra == 'tf'"", ""tensorflow-gpu (>=1.4.0); extra == 'tf_gpu'""]"
+d3dshot,0.1.3,"['comtypes (>=1.1.5)', 'Pillow (>=5.0.0)']"
+pyvww,0.1.0,['pycocotools']
+icv,0.0.1.1,"['Pillow', 'numpy']"
+tensorflow-qndex,0.0.22,"['argtyp', 'listpad', 'tensorflow-extenteten', 'tensorflow-qnd']"
+wellpathpy,0.1.0a2,"['numpy (>=1.10)', 'pandas', 'matplotlib']"
+premaidai-gym,1.1.0,"['roboschool (>=1.0,<2.0)', 'numpy (>=1.17,<2.0)', 'gym (>=0.10.5,<0.11.0)']"
+pornstar,0.3,"['setuptools', 'auto-everything', 'numpy', 'matplotlib', 'pillow', 'moviepy', 'dlib']"
+gpflow,1.5.1,"['numpy (>=1.10.0)', 'scipy (>=0.18.0)', 'pandas (>=0.18.1)', 'multipledispatch (>=0.4.9)', 'decorator (>=4.1)', 'pytest (>=3.5.0)', 'h5py (>=2.9.0)', 'matplotlib (>=2.2.2)', ""tensorflow-gpu (<2.0,>=1.12.0); extra == 'tensorflow_with_gpu'""]"
+lab-ml,0.81.90.dev0,"['click (>=6.7)', 'minio', 'numpy', 'pandas', 'pyyaml', 'tabulate', 'graphviz', 'joblib']"
+zerofs,0.1.9,"['backblazeb2', 'fusepy']"
+aif360,0.2.2,"['numpy (>=1.16)', 'scipy', 'pandas (>=0.23.3)', 'scikit-learn']"
+text2array,0.1.0,"['numpy', 'tqdm', 'ordered-set ~=3.1.1', 'flake8; extra == ""dev""', 'flake8-mypy; extra == ""dev""', 'yapf; extra == ""dev""', 'Sphinx ~=1.8.3; extra == ""doc""', 'sphinx_rtd_theme; extra == ""doc""', 'sphinx-autodoc-typehints ~=1.6.0; extra == ""doc""', 'pytest ~=5.2.1; extra == ""test""', 'pytest-cov; extra == ""test""']"
