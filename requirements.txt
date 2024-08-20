@@ -16,4 +16,4 @@ leidenalg==0.8.10
 multipy==0.16
 scipy==1.10.0
 openpyxl==3.0.9
-nltk==3.8.1
+nltk==3.9
